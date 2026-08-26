@@ -1,0 +1,9 @@
+{
+  "name": "nuras-render-github-v1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NURAS institutional quality and performance platform",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "pg": "^8.13.1"}
+}
